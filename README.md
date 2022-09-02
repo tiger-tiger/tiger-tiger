@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiger-tiger
 - 👀 I’m interested in DeepLearning In Drug Discovery
-- 🌱 I’m currently learning DeepLearning
+- 🌱 I’m developing molecular modelling software, specifically structure-based (ai-assisted) drug design
 - 📫 How to reach me gnudebian at 163 dot com
 
 <!---
